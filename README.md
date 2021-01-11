@@ -1,4 +1,4 @@
 # kenzan
 
-![sample](https://github.com/kitazaki/kenzan/raw/master/sample1.png)
-![demo](https://github.com/kitazaki/kenzan/raw/master/demo1.png)
+![sample](https://raw.githubusercontent.com/kitazaki/kenzan/main/sample1.png)
+![demo](https://raw.githubusercontent.com/kitazaki/kenzan/main/demo1.png)
